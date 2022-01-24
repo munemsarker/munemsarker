@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Munem Sarker</h1>
 <h3 align="center">A cross platform mobile app developer from Bangladesh.</h3>
-<img align="right" alt ="Coding" width="400" src = "https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
+<img align="right" alt ="Coding" width="400" src = "https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munemsarker&label=Profile%20views&color=0e75b6&style=flat" alt="munemsarker" /> </p>
@@ -32,3 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=munemsarker&show_icons=true&locale=en&layout=compact" alt="munemsarker" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munemsarker&show_icons=true&locale=en" alt="munemsarker" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=munemsarker&" alt="munemsarker" /></p>
